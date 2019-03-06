@@ -1,4 +1,4 @@
-module github.com/ulule/limiter/v3
+module github.com/ulule/limiter
 
 require (
 	github.com/astaxie/beego v1.10.0
